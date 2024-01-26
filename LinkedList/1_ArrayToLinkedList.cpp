@@ -1,6 +1,5 @@
-// Problem Link : https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1
+// Problem Link: https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1
 // TC : O(N), SC: O(N)
-// Solution Video : 
 
 class Solution {
   public:
